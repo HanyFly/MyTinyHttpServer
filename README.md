@@ -14,7 +14,7 @@ sudo chmod +x post.cgi
 
 文件权限：
 
-<img src="/home/hao/Desktop/MyTinyHttpWebServer/image/权限.png" alt="文件权限"  />
+<img src="./image/权限.png" alt="文件权限"  />
 
 2、编译
 
